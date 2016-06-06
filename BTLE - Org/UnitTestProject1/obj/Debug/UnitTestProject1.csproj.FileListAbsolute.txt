@@ -1,0 +1,33 @@
+D:\Jawbone\BTLE\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Jawbone\BTLE\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Jawbone\BTLE\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Jawbone\BTLE\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\Jawbone\BTLE\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Jawbone\BTLE\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\ManjitPC\BTLE - Org\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\ManjitPC\BTLE - Org\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\ManjitPC\BTLE - Org\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ManjitPC\BTLE - Org\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\ManjitPC\BTLE - Org\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\ManjitPC\BTLE - Org\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\BTLE - Org\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\BTLE - Org\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\BTLE - Org\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\BTLE - Org\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\BTLE - Org\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\BTLE - Org\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+F:\BLE Demo\BTLE - Org\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+F:\BLE Demo\BTLE - Org\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+F:\BLE Demo\BTLE - Org\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\BLE Demo\BTLE - Org\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+F:\BLE Demo\BTLE - Org\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+F:\BLE Demo\BTLE - Org\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+F:\BLE Demo\BTLE - Org\UnitTestProject1\bin\Debug\UnitTestProject1.dll.config
+F:\BLE Demo\BTLE - Org\UnitTestProject1\bin\Debug\EntityFramework.dll
+F:\BLE Demo\BTLE - Org\UnitTestProject1\bin\Debug\EntityFramework.SqlServer.dll
+F:\BLE Demo\BTLE - Org\UnitTestProject1\bin\Debug\System.Data.SQLite.dll
+F:\BLE Demo\BTLE - Org\UnitTestProject1\bin\Debug\System.Data.SQLite.EF6.dll
+F:\BLE Demo\BTLE - Org\UnitTestProject1\bin\Debug\System.Data.SQLite.Linq.dll
+F:\BLE Demo\BTLE - Org\UnitTestProject1\bin\Debug\EntityFramework.xml
+F:\BLE Demo\BTLE - Org\UnitTestProject1\bin\Debug\EntityFramework.SqlServer.xml
+F:\BLE Demo\BTLE - Org\UnitTestProject1\bin\Debug\System.Data.SQLite.xml

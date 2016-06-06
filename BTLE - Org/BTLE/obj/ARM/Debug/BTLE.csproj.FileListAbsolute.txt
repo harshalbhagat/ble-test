@@ -1,0 +1,606 @@
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\ApplicationInsights.config
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\App.xbf
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\MainPage.xbf
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\BTLE.xr.xml
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\BTLE.exe
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\BTLE.pdb
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\resources.pri
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\AppxManifest.xml
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\Core\AppxManifest.xml
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\Core\BTLE.exe
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\BTLE.build.appxrecipe
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\Microsoft.ApplicationInsights.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\Microsoft.CSharp.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Core.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Numerics.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.Serialization.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.ServiceModel.Web.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.ServiceModel.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Windows.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Xml.Linq.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Xml.Serialization.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Xml.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\Microsoft.VisualBasic.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\Newtonsoft.Json.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\SQLite.Net.Platform.WinRT.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\SQLite.Net.Async.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\SQLite.Net.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\SQLiteNetExtensions.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\SQLiteNetExtensionsAsync.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.AppContext.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Collections.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Collections.Concurrent.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Collections.Immutable.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Collections.NonGeneric.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Collections.Specialized.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.ComponentModel.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Data.Common.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Diagnostics.Debug.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Diagnostics.Tools.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Dynamic.Runtime.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Globalization.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Globalization.Calendars.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Globalization.Extensions.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.IO.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.IO.Compression.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\ClrCompression.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.IO.FileSystem.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Linq.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Linq.Expressions.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Linq.Parallel.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Linq.Queryable.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.Http.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.Http.Rtc.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.NetworkInformation.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.Primitives.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.Requests.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.Sockets.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Numerics.Vectors.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.ObjectModel.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Private.Networking.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Private.ServiceModel.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Private.Uri.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.Context.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.Emit.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.Extensions.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.Metadata.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.Primitives.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Resources.ResourceManager.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.Extensions.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.Handles.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.InteropServices.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.Numerics.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Security.Claims.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Security.Principal.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.ServiceModel.Http.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.ServiceModel.Security.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Text.Encoding.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Text.RegularExpressions.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Threading.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Threading.Overlapped.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Threading.Tasks.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Threading.Timer.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Xml.XDocument.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Xml.XmlDocument.dll
+D:\ManjitPC\BTLE - Org\BTLE\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\BTLE.csprojResolveAssemblyReference.cache
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\App.g.i.cs
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\App.g.cs
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\MainPage.g.i.cs
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\MainPage.g.cs
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\XamlTypeInfo.g.cs
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\App.xaml
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\MainPage.xaml
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\App.xbf
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\MainPage.xbf
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\XamlSaveStateFile.xml
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\BTLE.exe
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\BTLE.pdb
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\ResourceHandlingTask.state
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.AppContext.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.IO.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Private.Networking.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Reflection.Context.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\priconfig.xml
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\priconfig.xml.intermediate
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\layout.resfiles
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\layout.resfiles.intermediate
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\resources.resfiles
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\resources.resfiles.intermediate
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\pri.resfiles
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\pri.resfiles.intermediate
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\qualifiers.txt
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\qualifiers.txt.intermediate
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\ManjitPC\BTLE - Org\BTLE\obj\ARM\Debug\ProjectArchitectures.txt
+D:\BTLE - Org\BTLE\obj\ARM\Debug\BTLE.exe
+D:\BTLE - Org\BTLE\obj\ARM\Debug\BTLE.pdb
+D:\BTLE - Org\BTLE\bin\ARM\Debug\ApplicationInsights.config
+D:\BTLE - Org\BTLE\bin\ARM\Debug\App.xbf
+D:\BTLE - Org\BTLE\bin\ARM\Debug\MainPage.xbf
+D:\BTLE - Org\BTLE\bin\ARM\Debug\BTLE.xr.xml
+D:\BTLE - Org\BTLE\bin\ARM\Debug\BTLE.exe
+D:\BTLE - Org\BTLE\bin\ARM\Debug\BTLE.pdb
+D:\BTLE - Org\BTLE\bin\ARM\Debug\resources.pri
+D:\BTLE - Org\BTLE\bin\ARM\Debug\AppxManifest.xml
+D:\BTLE - Org\BTLE\bin\ARM\Debug\Core\AppxManifest.xml
+D:\BTLE - Org\BTLE\bin\ARM\Debug\Core\BTLE.exe
+D:\BTLE - Org\BTLE\bin\ARM\Debug\BTLE.build.appxrecipe
+D:\BTLE - Org\BTLE\bin\ARM\Debug\Microsoft.ApplicationInsights.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\Microsoft.CSharp.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Core.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Numerics.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.Serialization.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.ServiceModel.Web.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.ServiceModel.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Windows.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Xml.Linq.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Xml.Serialization.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Xml.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\Microsoft.VisualBasic.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\Newtonsoft.Json.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\SQLite.Net.Platform.WinRT.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\SQLite.Net.Async.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\SQLite.Net.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\SQLiteNetExtensions.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\SQLiteNetExtensionsAsync.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.AppContext.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Collections.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Collections.Concurrent.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Collections.Immutable.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Collections.NonGeneric.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Collections.Specialized.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.ComponentModel.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Data.Common.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Diagnostics.Debug.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Diagnostics.Tools.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Dynamic.Runtime.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Globalization.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Globalization.Calendars.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Globalization.Extensions.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.IO.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.IO.Compression.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\ClrCompression.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.IO.FileSystem.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Linq.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Linq.Expressions.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Linq.Parallel.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Linq.Queryable.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.Http.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.Http.Rtc.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.NetworkInformation.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.Primitives.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.Requests.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.Sockets.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Numerics.Vectors.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.ObjectModel.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Private.Networking.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Private.ServiceModel.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Private.Uri.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.Context.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.Emit.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.Extensions.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.Metadata.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.Primitives.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Resources.ResourceManager.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.Extensions.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.Handles.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.InteropServices.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.Numerics.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Security.Claims.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Security.Principal.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.ServiceModel.Http.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.ServiceModel.Security.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Text.Encoding.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Text.RegularExpressions.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Threading.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Threading.Overlapped.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Threading.Tasks.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Threading.Timer.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Xml.XDocument.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Xml.XmlDocument.dll
+D:\BTLE - Org\BTLE\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+D:\BTLE - Org\BTLE\obj\ARM\Debug\BTLE.csprojResolveAssemblyReference.cache
+D:\BTLE - Org\BTLE\obj\ARM\Debug\App.g.i.cs
+D:\BTLE - Org\BTLE\obj\ARM\Debug\App.g.cs
+D:\BTLE - Org\BTLE\obj\ARM\Debug\MainPage.g.i.cs
+D:\BTLE - Org\BTLE\obj\ARM\Debug\MainPage.g.cs
+D:\BTLE - Org\BTLE\obj\ARM\Debug\XamlTypeInfo.g.cs
+D:\BTLE - Org\BTLE\obj\ARM\Debug\App.xaml
+D:\BTLE - Org\BTLE\obj\ARM\Debug\MainPage.xaml
+D:\BTLE - Org\BTLE\obj\ARM\Debug\App.xbf
+D:\BTLE - Org\BTLE\obj\ARM\Debug\MainPage.xbf
+D:\BTLE - Org\BTLE\obj\ARM\Debug\XamlSaveStateFile.xml
+D:\BTLE - Org\BTLE\obj\ARM\Debug\ResourceHandlingTask.state
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.AppContext.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.IO.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Private.Networking.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Reflection.Context.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+D:\BTLE - Org\BTLE\obj\ARM\Debug\priconfig.xml
+D:\BTLE - Org\BTLE\obj\ARM\Debug\priconfig.xml.intermediate
+D:\BTLE - Org\BTLE\obj\ARM\Debug\layout.resfiles
+D:\BTLE - Org\BTLE\obj\ARM\Debug\layout.resfiles.intermediate
+D:\BTLE - Org\BTLE\obj\ARM\Debug\resources.resfiles
+D:\BTLE - Org\BTLE\obj\ARM\Debug\resources.resfiles.intermediate
+D:\BTLE - Org\BTLE\obj\ARM\Debug\pri.resfiles
+D:\BTLE - Org\BTLE\obj\ARM\Debug\pri.resfiles.intermediate
+D:\BTLE - Org\BTLE\obj\ARM\Debug\qualifiers.txt
+D:\BTLE - Org\BTLE\obj\ARM\Debug\qualifiers.txt.intermediate
+D:\BTLE - Org\BTLE\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\BTLE - Org\BTLE\obj\ARM\Debug\ProjectArchitectures.txt
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\ApplicationInsights.config
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\App.xbf
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\MainPage.xbf
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\BTLE.xr.xml
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\BTLE.exe
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\BTLE.pdb
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\resources.pri
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\AppxManifest.xml
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\Core\AppxManifest.xml
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\Core\BTLE.exe
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\BTLE.build.appxrecipe
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\Microsoft.ApplicationInsights.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\Microsoft.CSharp.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.ComponentModel.DataAnnotations.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Core.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Numerics.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.Serialization.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.ServiceModel.Web.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.ServiceModel.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Windows.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Xml.Linq.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Xml.Serialization.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Xml.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\Microsoft.VisualBasic.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\Microsoft.Win32.Primitives.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\Newtonsoft.Json.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Private.DataContractSerialization.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\SQLite.Net.Platform.WinRT.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\SQLite.Net.Async.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\SQLite.Net.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\SQLiteNetExtensions.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\SQLiteNetExtensionsAsync.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.AppContext.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Collections.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Collections.Concurrent.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Collections.Immutable.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Collections.NonGeneric.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Collections.Specialized.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.ComponentModel.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.ComponentModel.Annotations.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Data.Common.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Diagnostics.Contracts.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Diagnostics.Debug.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Diagnostics.StackTrace.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Diagnostics.Tools.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Diagnostics.Tracing.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Dynamic.Runtime.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Globalization.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Globalization.Calendars.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Globalization.Extensions.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.IO.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.IO.Compression.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\ClrCompression.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.IO.Compression.ZipFile.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.IO.FileSystem.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.IO.FileSystem.Primitives.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.IO.IsolatedStorage.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Linq.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Linq.Expressions.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Linq.Parallel.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Linq.Queryable.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.Http.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.Http.Rtc.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.NetworkInformation.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.Primitives.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.Requests.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.Sockets.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Net.WebHeaderCollection.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Numerics.Vectors.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.ObjectModel.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Private.Networking.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Private.ServiceModel.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Private.Uri.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.Context.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.DispatchProxy.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.Emit.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.Emit.ILGeneration.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.Emit.Lightweight.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.Extensions.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.Metadata.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.Primitives.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Reflection.TypeExtensions.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Resources.ResourceManager.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.Extensions.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.Handles.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.InteropServices.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.Numerics.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.Serialization.Json.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.Serialization.Primitives.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.Serialization.Xml.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.WindowsRuntime.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Security.Claims.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Security.Principal.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.ServiceModel.Duplex.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.ServiceModel.Http.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.ServiceModel.NetTcp.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.ServiceModel.Primitives.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.ServiceModel.Security.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Text.Encoding.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Text.Encoding.CodePages.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Text.Encoding.Extensions.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Text.RegularExpressions.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Threading.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Threading.Overlapped.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Threading.Tasks.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Threading.Tasks.Dataflow.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Threading.Tasks.Parallel.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Threading.Timer.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Xml.ReaderWriter.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Xml.XDocument.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Xml.XmlDocument.dll
+F:\BLE Demo\BTLE - Org\BTLE\bin\ARM\Debug\System.Xml.XmlSerializer.dll
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\BTLE.csprojResolveAssemblyReference.cache
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\App.g.i.cs
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\App.g.cs
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\MainPage.g.i.cs
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\MainPage.g.cs
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\XamlTypeInfo.g.cs
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\App.xaml
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\MainPage.xaml
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\App.xbf
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\MainPage.xbf
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\XamlSaveStateFile.xml
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\BTLE.exe
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\BTLE.pdb
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\ResourceHandlingTask.state
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.Microsoft.CSharp.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.AppContext.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Collections.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Collections.Concurrent.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Collections.Immutable.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Collections.Specialized.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Data.Common.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Globalization.Extensions.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.IO.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.IO.Compression.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.IO.FileSystem.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Linq.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Linq.Expressions.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Linq.Parallel.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Linq.Queryable.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Net.Http.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Net.Requests.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Numerics.Vectors.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.ObjectModel.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Private.Networking.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Private.ServiceModel.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Private.Uri.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Reflection.Context.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Reflection.Metadata.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Runtime.Extensions.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Runtime.Numerics.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Security.Claims.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Threading.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Threading.Overlapped.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Xml.XDocument.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\priconfig.xml
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\priconfig.xml.intermediate
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\layout.resfiles
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\layout.resfiles.intermediate
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\resources.resfiles
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\resources.resfiles.intermediate
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\pri.resfiles
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\pri.resfiles.intermediate
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\qualifiers.txt
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\qualifiers.txt.intermediate
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\BLE Demo\BTLE - Org\BTLE\obj\ARM\Debug\ProjectArchitectures.txt

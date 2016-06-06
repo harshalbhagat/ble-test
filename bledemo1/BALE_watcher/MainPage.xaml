@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="BALE_watcher.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BALE_watcher"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button x:Name="btnStart" Content="Start" HorizontalAlignment="Left" Margin="10,0,0,10" Click="button_Click"  VerticalAlignment="Bottom" Width="340"/>
+        <ListView x:Name="listView" HorizontalAlignment="Left" Height="260" Margin="10,10,0,0" VerticalAlignment="Top"  Width="340"/>
+        <TextBlock x:Name="lblComplete" HorizontalAlignment="Center" TextAlignment="Center" Margin="10,545,10,47" TextWrapping="Wrap" Text="" Height="48" Width="340" FontSize="20"/>
+
+    </Grid>
+</Page>

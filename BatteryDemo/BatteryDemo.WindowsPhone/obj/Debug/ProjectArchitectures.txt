@@ -1,0 +1,1 @@
+C:\Users\Jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.WindowsPhone\BatteryDemo.WindowsPhone.csproj;neutral

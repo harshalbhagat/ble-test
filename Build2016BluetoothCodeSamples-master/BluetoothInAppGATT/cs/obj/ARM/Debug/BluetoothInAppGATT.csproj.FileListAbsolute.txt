@@ -1,0 +1,17 @@
+F:\BLE Demo\Build2016BluetoothCodeSamples-master\BluetoothInAppGATT\cs\obj\ARM\Debug\BluetoothInAppGATT.csprojResolveAssemblyReference.cache
+F:\BLE Demo\Build2016BluetoothCodeSamples-master\BluetoothInAppGATT\cs\obj\ARM\Debug\App.g.i.cs
+F:\BLE Demo\Build2016BluetoothCodeSamples-master\BluetoothInAppGATT\cs\obj\ARM\Debug\App.g.cs
+F:\BLE Demo\Build2016BluetoothCodeSamples-master\BluetoothInAppGATT\cs\obj\ARM\Debug\MainPage.g.i.cs
+F:\BLE Demo\Build2016BluetoothCodeSamples-master\BluetoothInAppGATT\cs\obj\ARM\Debug\MainPage.g.cs
+F:\BLE Demo\Build2016BluetoothCodeSamples-master\BluetoothInAppGATT\cs\obj\ARM\Debug\Scenario1_InAppGATT.g.i.cs
+F:\BLE Demo\Build2016BluetoothCodeSamples-master\BluetoothInAppGATT\cs\obj\ARM\Debug\Scenario1_InAppGATT.g.cs
+F:\BLE Demo\Build2016BluetoothCodeSamples-master\BluetoothInAppGATT\cs\obj\ARM\Debug\XamlTypeInfo.g.cs
+F:\BLE Demo\Build2016BluetoothCodeSamples-master\BluetoothInAppGATT\cs\obj\ARM\Debug\App.xaml
+F:\BLE Demo\Build2016BluetoothCodeSamples-master\BluetoothInAppGATT\cs\obj\ARM\Debug\MainPage.xaml
+F:\BLE Demo\Build2016BluetoothCodeSamples-master\BluetoothInAppGATT\cs\obj\ARM\Debug\Scenario1_InAppGATT.xaml
+F:\BLE Demo\Build2016BluetoothCodeSamples-master\BluetoothInAppGATT\cs\obj\ARM\Debug\Styles\Styles.xaml
+F:\BLE Demo\Build2016BluetoothCodeSamples-master\BluetoothInAppGATT\cs\obj\ARM\Debug\App.xbf
+F:\BLE Demo\Build2016BluetoothCodeSamples-master\BluetoothInAppGATT\cs\obj\ARM\Debug\MainPage.xbf
+F:\BLE Demo\Build2016BluetoothCodeSamples-master\BluetoothInAppGATT\cs\obj\ARM\Debug\Scenario1_InAppGATT.xbf
+F:\BLE Demo\Build2016BluetoothCodeSamples-master\BluetoothInAppGATT\cs\obj\ARM\Debug\Styles\Styles.xbf
+F:\BLE Demo\Build2016BluetoothCodeSamples-master\BluetoothInAppGATT\cs\obj\ARM\Debug\XamlSaveStateFile.xml

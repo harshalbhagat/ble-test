@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JIMMY-PC</Machine>
+    <WindowsUser>Jimmy</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ebf15106-586f-4051-88e0-73b6af82c30d</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>F4C90262D91FF943C20A6C6C25DB604E58D45B1CD7AAFB3E4284DC4824C62157</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ebf15106-586f-4051-88e0-73b6af82c30d_1.0.0.0_neutral__rws23b8jp08vy</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ebf15106-586f-4051-88e0-73b6af82c30d_rws23b8jp08vy!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ebf15106-586f-4051-88e0-73b6af82c30d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jimmy</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-08T20:23:41.221</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\bin\Debug\BatteryDemo.Windows.exe">
+      <PackagePath>BatteryDemo.Windows.exe</PackagePath>
+      <Modified>2014-06-08T20:26:35.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T19:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T19:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T19:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T19:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-06-08T20:23:40.565</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\bin\Debug\BatteryServicePage.xbf">
+      <PackagePath>BatteryServicePage.xbf</PackagePath>
+      <Modified>2014-06-08T20:26:35.449</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-06-08T20:23:40.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\bin\Debug\BatteryDemo.Windows.xr.xml">
+      <PackagePath>BatteryDemo.Windows.xr.xml</PackagePath>
+      <Modified>2014-06-08T20:26:35.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-06-08T20:23:41.031</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

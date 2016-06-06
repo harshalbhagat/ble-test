@@ -1,0 +1,434 @@
+﻿<Page x:Class="BTLE.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d">
+
+    <Page.Resources>
+        <DataTemplate x:Key="ResultsListViewTemplate">
+            <Grid Margin="0,5">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="*"
+                                      MinWidth="100" />
+                </Grid.ColumnDefinitions>
+
+                <Border Grid.Column="0"
+                        Background="{ThemeResource HyperlinkForegroundThemeBrush}">
+
+                    <Image Source="{Binding Path=GlyphBitmapImage}"
+                           Stretch="UniformToFill"
+                           NineGrid="0"
+                           Width="40"
+                           Height="40"
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Center"
+                           Margin="2" />
+                </Border>
+
+                <Border Grid.Column="1"
+                        Background="{Binding Path=IsPaired, Converter={StaticResource IsPaired2BackgroundConverter}}">
+
+                    <StackPanel Margin="4">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Name:"
+                                       Margin="0,0,5,0"
+                                       Padding="0,2"
+                                       FontSize="13.333"
+                                       VerticalAlignment="Center"
+                                       HorizontalAlignment="Center" />
+
+                            <TextBlock Text="{Binding Path=Name}"
+                                       FontWeight="Bold"
+                                       TextWrapping="WrapWholeWords"
+                                       FontSize="13.333"
+                                       VerticalAlignment="Center"
+                                       HorizontalAlignment="Center" />
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Id:"
+                                       Margin="0,0,5,0"
+                                       Padding="0,2"
+                                       FontSize="13.333"
+                                       VerticalAlignment="Center"
+                                       HorizontalAlignment="Center" />
+
+                            <TextBlock Text="{Binding Path=Id}"
+                                       TextWrapping="Wrap"
+                                       FontSize="13.333"
+                                       VerticalAlignment="Center" />
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Address:"
+                                       Margin="0,0,5,0"
+                                       Padding="0,2"
+                                       FontSize="13.333"
+                                       VerticalAlignment="Center"
+                                       HorizontalAlignment="Center" />
+
+                            <TextBlock Text="{Binding Path=Address}"
+                                       TextWrapping="Wrap"
+                                       FontSize="13.333"
+                                       VerticalAlignment="Center"
+                                       HorizontalAlignment="Center" />
+                        </StackPanel>
+
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="CanPair:"
+                                           Margin="0,0,5,0"
+                                           Padding="0,2"
+                                           FontSize="13.333"
+                                           VerticalAlignment="Center"
+                                           HorizontalAlignment="Center" />
+
+                                <TextBlock Text="{Binding CanPair}"
+                                           TextWrapping="Wrap"
+                                           FontSize="13.333"
+                                           VerticalAlignment="Center"
+                                           HorizontalAlignment="Center" />
+                            </StackPanel>
+
+                            <StackPanel Orientation="Horizontal"
+                                        Grid.Column="1">
+                                <TextBlock Text="IsPaired:"
+                                           Margin="0,0,5,0"
+                                           Padding="0,2"
+                                           FontSize="13.333"
+                                           VerticalAlignment="Center"
+                                           HorizontalAlignment="Center" />
+
+                                <TextBlock Text="{Binding IsPaired}"
+                                           TextWrapping="Wrap"
+                                           FontSize="13.333"
+                                           VerticalAlignment="Center"
+                                           HorizontalAlignment="Center" />
+                            </StackPanel>
+                        </Grid>
+                    </StackPanel>
+                </Border>
+            </Grid>
+        </DataTemplate>
+    </Page.Resources>
+
+    <Page.BottomAppBar>
+        <CommandBar VerticalAlignment="Top"
+                    Margin="0">
+            <!--Toolbar-->
+            <AppBarButton x:Name="AppBarButtonStart"
+                          Label="Scan"
+                          Click="AppBarButton_Click"
+                          Icon="Scan"
+                          Width="55" />
+
+            <AppBarButton x:Name="AppBarButtonStop"
+                          Label="Stop"
+                          Click="AppBarButton_Click"
+                          IsEnabled="False"
+                          Width="55"
+                          Visibility="Collapsed"
+                          Icon="Stop" />
+
+            <AppBarButton x:Name="AppBarButtonPair"
+                          Label="Pair"
+                          Click="PairButton_Click"
+                          Width="55"
+                          IsEnabled="False"
+                          Icon="Link" />
+
+            <AppBarButton x:Name="AppBarButtonUnpair"
+                          Label="Unpair"
+                          Click="UnpairButton_Click"
+                          Width="55"
+                          IsEnabled="True">
+                <AppBarButton.Icon>
+                    <BitmapIcon UriSource="Assets/appbar.Unpair.png"
+                                VerticalAlignment="Center"
+                                Height="30"
+                                Width="40" />
+                </AppBarButton.Icon>
+            </AppBarButton>
+
+            <AppBarButton x:Name="AppBarButtonConnect"
+                          Label="Connect"
+                          Click="AppBarButtonConnect_OnClick"
+                          IsEnabled="False"
+                          Icon="Sync"
+                          Width="auto" />
+
+            <AppBarButton x:Name="AppBarButtonSetting"
+                          Label="Setting"
+                          Click="AppBarButtonSetting_OnClick"
+                          IsEnabled="False"
+                          Icon="Setting"
+                          Width="55" />
+
+            <AppBarButton x:Name="AppBarButtonDateTime"
+                          Label="DateTime"
+                          Click="AppBarButtonDateTime_OnClick"
+                          IsEnabled="False"
+                          Icon="Clock"
+                          Width="55" />
+
+            <AppBarButton x:Name="AppBarButtonTest"
+                          Label="Alert"
+                          Click="AppBarButtonTest_OnClick"
+                          IsEnabled="False"
+                          Icon="Send"
+                          Width="55" />
+
+            <AppBarButton x:Name="AppBarButtonAlert"
+                          Label="Alert"
+                          Click="AppBarButtonAlert_OnClick"
+                          IsEnabled="False"
+                          Icon="ReportHacked"
+                          Visibility="Collapsed"
+                          Width="55" />
+
+            <!--Menu-->
+            <CommandBar.SecondaryCommands>
+                <AppBarButton Label="Edit"
+                              Icon="Edit"
+                              Click="AppBarButton_Click" />
+
+                <AppBarButton Label="Remove"
+                              Icon="Remove"
+                              Click="AppBarButton_Click" />
+
+                <AppBarButton Label="Add"
+                              Icon="Add"
+                              Click="AppBarButton_Click" />
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <ScrollViewer Grid.Row="0"
+                      VerticalScrollMode="Auto"
+                      VerticalScrollBarVisibility="Auto">
+
+            <StackPanel Margin="8,0">
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="auto" />
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock Text="Description:"
+                               Style="{StaticResource HeaderTextStyle}"
+                               d:LayoutOverrides="Width, Height"
+                               VerticalAlignment="Center" />
+
+                    <TextBlock x:Name="Time"
+                               Text=""
+                               Style="{StaticResource HeaderTextStyle}"
+                               d:LayoutOverrides="Width, Height"
+                               Grid.Column="1"
+                               FontSize="13.333"
+                               VerticalAlignment="Center" />
+                </Grid>
+
+                <TextBlock Style="{StaticResource DescriptionTextStyle}"
+                           TextWrapping="Wrap"
+                           Margin="0,0,0,10"
+                           Text="This test application uses DeviceWatchers to find UP Band devices around, Pair them, and communicate with them." />
+
+                <Border BorderBrush="AntiqueWhite"
+                        BorderThickness="1">
+
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+
+                        <ListView x:Name="ResultsListView"
+                                  ItemTemplate="{StaticResource ResultsListViewTemplate}"
+                                  ItemsSource="{Binding ResultCollection}"
+                                  d:LayoutOverrides="Width, LeftPosition, RightPosition"
+                                  SelectionChanged="ResultsListView_SelectionChanged" />
+
+                        <Grid x:Name="GridBandData"
+                              Grid.Row="1"
+                              Background="{Binding IsWalking, Converter={StaticResource IsWalking2BackgroundConverter}}"
+                              Margin="0,4"
+                              MaxHeight="84">
+
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+
+                            <TextBlock x:Name="TotalSteps"
+                                       Grid.Row="0"
+                                       Grid.Column="0"
+                                       HorizontalAlignment="Left"
+                                       TextWrapping="Wrap"
+                                       Margin="4,0,0,0"
+                                       FontSize="14.667">
+        					<Run Text="Steps: " />
+        					<Run Text="{Binding Steps}" />
+                            </TextBlock>
+
+                            <TextBlock x:Name="Distance"
+                                       Grid.Row="0"
+                                       Grid.Column="1"
+                                       HorizontalAlignment="Left"
+                                       TextWrapping="Wrap"
+                                       Margin="4,0,0,0"
+                                       FontSize="14.667">
+        					<Run Text="Distance: " />
+        					<Run Text="{Binding DistanceInMeters}" />
+        					<Run Text="m" />
+                            </TextBlock>
+
+                            <TextBlock x:Name="MeanHeartRate"
+                                       Grid.Row="2"
+                                       Grid.Column="0"
+                                       HorizontalAlignment="Left"
+                                       TextWrapping="Wrap"
+                                       Margin="4,0,0,0"
+                                       FontSize="14.667">
+        					<Run Text="Mean HR: " />
+        					<Run Text="{Binding MeanHeartRate}" />
+                            </TextBlock>
+
+                            <TextBlock x:Name="IsPossibleBandRemoved"
+                                       Grid.Row="1"
+                                       Grid.Column="1"
+                                       HorizontalAlignment="Left"
+                                       TextWrapping="Wrap"
+                                       Margin="4,0,0,0"
+                                       FontSize="14.667">
+        					<Run Text="Is Removed: " />
+        					<Run Text="{Binding IsPossibleBandRemoved}" />
+                            </TextBlock>
+
+                            <TextBlock x:Name="IsBatteryCharging"
+                                       Grid.Row="1"
+                                       Grid.Column="0"
+                                       HorizontalAlignment="Left"
+                                       TextWrapping="Wrap"
+                                       Margin="4,0,0,0"
+                                       FontSize="14.667">
+        					<Run Text="Is Charging: " />
+        					<Run Text="{Binding IsBatteryCharging}" />
+                            </TextBlock>
+
+                            <TextBlock x:Name="Battery"
+                                       Grid.Row="2"
+                                       Grid.Column="1"
+                                       HorizontalAlignment="Left"
+                                       TextWrapping="Wrap"
+                                       Margin="4,0,0,0"
+                                       FontSize="14.667">
+        					<Run Text="Battery: " />
+        					<Run Text="{Binding Battery}" />
+        					<Run Text="%" />
+                            </TextBlock>
+
+                            <TextBlock x:Name="LastTick"
+                                       Grid.Row="3"
+                                       Grid.Column="0"
+                                       HorizontalAlignment="Left"
+                                       Grid.ColumnSpan="2"
+                                       Margin="4,0,0,0"
+                                       FontSize="14.667">
+        					<Run Text="Last Tick: - (" />
+        					<Run Text="{Binding Count}" />
+        					<Run Text="): " />
+        					<Run Text="{Binding LastTick}" />
+                            </TextBlock>
+
+                            <Image x:Name="Connected"
+                                   Grid.Row="0"
+                                   Grid.Column="1"
+                                   Grid.RowSpan="2"
+                                   Width="36"
+                                   Height="36"
+                                   Source="Assets/Connected.png"
+                                   Visibility="{Binding IsConnected, Converter={StaticResource IsWalking2VisibilityConverter}}"
+                                   HorizontalAlignment="Right" />
+
+                            <Image x:Name="Walking"
+                                   Grid.Row="2"
+                                   Grid.Column="1"
+                                   Grid.RowSpan="2"
+                                   Width="36"
+                                   Height="36"
+                                   Source="Assets/ManWalking.png"
+                                   Visibility="{Binding IsWalking, Converter={StaticResource IsWalking2VisibilityConverter}}"
+                                   HorizontalAlignment="Right" />
+
+                            <!--<Ellipse Grid.Row="0"
+                                     Grid.RowSpan="2"
+                                     Grid.Column="1"
+                                     Stroke="Black"
+                                     VerticalAlignment="Center"
+                                     HorizontalAlignment="Right"
+                                     Width="36"
+                                     Height="36">
+
+                                <Ellipse.Fill>
+                                    <ImageBrush ImageSource="Assets/ManWalking.png"
+                                                Stretch="None" />
+                                </Ellipse.Fill>
+                            </Ellipse>-->
+                        </Grid>
+                    </Grid>
+                </Border>
+            </StackPanel>
+        </ScrollViewer>
+
+        <StackPanel x:Name="StatusPanel"
+                    Orientation="Vertical"
+                    Grid.Row="1"
+                    Background="Orange"
+                    VerticalAlignment="Bottom">
+
+            <TextBlock x:Name="StatusLabel"
+                       Margin="8,0"
+                       TextWrapping="Wrap"
+                       Text="Status:"
+                       Padding="0,4"
+                       FontWeight="Bold" />
+
+            <Border x:Name="StatusBorder"
+                    Margin="0,0,0,0">
+
+                <ScrollViewer VerticalScrollMode="Auto"
+                              VerticalScrollBarVisibility="Auto"
+                              MaxHeight="200">
+
+                    <TextBlock x:Name="StatusBlock"
+                               FontWeight="Bold"
+                               MaxWidth="{Binding ElementName=Splitter, Path=ActualWidth}"
+                               Margin="10,4"
+                               TextWrapping="WrapWholeWords"
+                               FontSize="13.333" />
+                </ScrollViewer>
+            </Border>
+        </StackPanel>
+    </Grid>
+</Page>

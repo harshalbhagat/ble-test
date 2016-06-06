@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JIMMY-PC</Machine>
+    <WindowsUser>Jimmy</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ebf15106-586f-4051-88e0-73b6af82c30d</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\bin\Debug\BatteryDemo.Windows.exe">
+      <PackagePath>BatteryDemo.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\bin\Debug\BatteryServicePage.xbf">
+      <PackagePath>BatteryServicePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\bin\Debug\BatteryDemo.Windows.xr.xml">
+      <PackagePath>BatteryDemo.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\jimmy\documents\visual studio 2013\Projects\BatteryDemo\BatteryDemo.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

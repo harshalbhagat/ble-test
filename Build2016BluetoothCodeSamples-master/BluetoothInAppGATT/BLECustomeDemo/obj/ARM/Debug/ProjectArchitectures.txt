@@ -1,0 +1,1 @@
+F:\BLE Demo\Build2016BluetoothCodeSamples-master\BluetoothInAppGATT\BLECustomeDemo\BLECustomeDemo.csproj;arm
